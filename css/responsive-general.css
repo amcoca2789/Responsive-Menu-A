@@ -1,0 +1,21 @@
+@media screen and (min-width: 780px) and (max-width: 1024px){
+   
+}
+
+@media screen and (min-width: 480px) and (max-width: 780px){
+	
+}
+
+@media screen and (max-width: 480px){
+	h2{
+		font-size: 1.8em;
+	}
+
+	h3{
+		font-size: 1.3em;
+	}
+
+	p{
+		font-size: 0.9em;
+	}
+}

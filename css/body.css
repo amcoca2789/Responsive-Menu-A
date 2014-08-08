@@ -1,0 +1,27 @@
+.landing{
+	position: relative;
+}
+
+.landing-figura{
+	padding-bottom: 10px; 
+	padding-top: 10px; 
+	position: relative;
+}
+
+.landing-figura-figcaption{
+	position: absolute;
+	top: 50%;
+	width: 40%;
+}
+
+.landing-figura-figcaption-subtitulo{
+	background-color: #0080FF;
+	font-family: 'Philosopher';
+	padding: 10px;
+}
+
+.landing-figura-figcaption-titulo{
+	background-color: #8000FF;
+	font-family: 'Aclonica';
+	padding: 10px;
+}

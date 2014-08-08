@@ -1,0 +1,121 @@
+*{
+	color: white;
+	font-size: 16px;
+}
+
+a{
+	display: block;
+	font-size: 2.5em;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+body{
+	background-color: #800040;
+	padding: 10px;
+}
+
+div{
+	display: block;
+	margin: 0;
+	padding: 0;	
+}
+
+figcaption{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+figure{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+form{
+	display: block;
+	margin: 0;
+	padding: 0;	
+}
+
+h2{
+	font-size: 3em;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+h3{
+	font-size: 2em;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+input{
+	color: black;
+	display: block;
+	margin: 0;
+	padding: 5px;
+	width: 95%;
+}
+
+label{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	margin: 0;
+	padding: 0;
+	width: auto;
+}
+
+nav{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	display: block;
+	font-size: 1.5em;
+	margin: 0;
+	padding: 0;
+}
+
+ul{
+	border: 1px solid white;
+	display: block;
+	list-style: none;
+	list-style-position: inside; 
+	margin: 0;
+	padding: 0;
+}
+
+.alineacion-izquierda{
+	text-align: right;
+}
+
+.position-izquierda{
+	right: 5px;
+}
+
+
+

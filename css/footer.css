@@ -1,0 +1,16 @@
+.contacto{
+	background-color: #0080C0;
+	padding-bottom: 10px; 
+	padding-top: 10px; 
+	position: relative;
+	text-align: center;
+}
+
+.contacto-titulo{
+	font-family: 'Aclonica';
+	font-weight: bold;
+}
+
+.contacto-descripcion{
+	font-family: 'Philosopher';
+}

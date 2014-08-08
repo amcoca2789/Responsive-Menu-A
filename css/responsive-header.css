@@ -1,0 +1,80 @@
+@media screen and (min-width: 1024px){
+	.cabecera-menu{
+		display: block !important;
+	}
+}
+
+@media screen and (min-width: 780px) and (max-width: 1024px){
+   	.cabecera-fig_menu{
+		display: block;
+	}
+	
+	.cabecera-menu{
+		left: 5px;
+		top: 90px;
+		width: auto;
+		z-index: 1;
+	}
+
+	.cabecera-menu-lista{
+		padding: 0;
+	}
+
+	.cabecera-menu-lista-opcion{
+		display: block;
+	}
+
+	.cabecera-menu-lista-opcion:hover{
+		background-color: #8000FF;
+	}
+}
+
+@media screen and (min-width: 480px) and (max-width: 780px){
+	.cabecera-fig_menu{
+		display: block;
+	}
+	
+	.cabecera-menu{
+		left: 5px;
+		top: 90px;
+		width: auto;
+		z-index: 1;
+	}
+
+	.cabecera-menu-lista{
+		padding: 0;
+	}
+
+	.cabecera-menu-lista-opcion{
+		display: block;
+	}
+
+	.cabecera-menu-lista-opcion:hover{
+		background-color: #8000FF;
+	}
+}
+
+@media screen and (max-width: 480px){
+	.cabecera-fig_menu{
+		display: block;
+	}
+	
+	.cabecera-menu{
+		left: 5px;
+		top: 90px;
+		width: auto;
+		z-index: 1;
+	}
+
+	.cabecera-menu-lista{
+		padding: 0;
+	}
+
+	.cabecera-menu-lista-opcion{
+		display: block;
+	}
+
+	.cabecera-menu-lista-opcion:hover{
+		background-color: #8000FF;
+	}
+}

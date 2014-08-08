@@ -1,0 +1,55 @@
+.cabecera{
+	background-color: #0080C0;
+	padding: 5px;
+	position: relative;
+	height: 90px;
+}
+
+.cabecera-fig_menu{
+	background-color: black;
+	display: none;
+	position: absolute;
+	right: 5px;
+	top: 5px;
+	width: 90px;
+}
+
+.cabecera-fig_producto{
+	background-color: black;
+	position: absolute;
+	width: 90px;
+}
+
+.cabecera-menu{
+	background-color: #004080;
+	position: absolute;
+	right: 5px;
+	width: auto;
+}
+
+.cabecera-menu-lista{
+	padding: 10px;
+	text-align: right;
+}
+
+.cabecera-menu-lista-opcion{
+	display: inline-block;
+	padding: 10px;
+	text-align: center;
+}
+
+.cabecera-menu-lista-opcion:hover{
+	border-bottom: 5px solid white;
+}
+
+.cabecera-menu-lista-opcion-link{
+	font-family: 'Philosopher';
+}
+
+.logo-menu{
+	border: 1px solid white;
+}
+
+.logo-producto{
+
+}

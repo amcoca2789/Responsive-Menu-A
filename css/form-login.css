@@ -1,0 +1,11 @@
+#dialog-form-login{
+	background-color: #4A4A4A;
+	border:2px solid black;
+	border-radius:5px;
+	display: none;
+	padding: 10px; 
+}
+
+.form-login-label-campo{
+	font-weight: bold;
+}

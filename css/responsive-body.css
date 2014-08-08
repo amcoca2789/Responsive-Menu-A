@@ -1,0 +1,72 @@
+@media screen and (min-width: 780px) and (max-width: 1024px){
+   	.landing-figura{
+		border-bottom: 1px solid white;
+		padding-bottom: 10px; 
+		padding-top: 10px; 
+	}
+
+	.landing-figura-figcaption{
+		position: static;
+		text-align: center;
+		right: 0;
+		top: 50%;
+		width: 100%;
+	}
+
+	.landing-figura-figcaption-subtitulo{
+		padding: 10px;
+	}
+
+	.landing-figura-figcaption-titulo{
+		padding: 10px;
+	}
+}
+
+@media screen and (min-width: 480px) and (max-width: 780px){
+	.landing-figura{
+		border-bottom: 1px solid white;
+		padding-bottom: 10px; 
+		padding-top: 10px; 
+	}
+
+	.landing-figura-figcaption{
+		position: static;
+		text-align: center;
+		right: 0;
+		top: 50%;
+		width: 100%;
+	}
+
+	.landing-figura-figcaption-subtitulo{
+		padding: 10px;
+	}
+
+	.landing-figura-figcaption-titulo{
+		padding: 10px;
+	}
+}
+
+@media screen and (max-width: 480px){
+	.landing-figura{
+		border-bottom: 1px solid white;
+		padding-bottom: 10px; 
+		padding-top: 10px; 
+	}
+
+	.landing-figura-figcaption{
+		position: static;
+		text-align: center;
+		right: 0;
+		top: 50%;
+		width: 100%;
+	}
+
+	.landing-figura-figcaption-subtitulo{
+		padding: 10px;
+	}
+
+	.landing-figura-figcaption-titulo{
+		padding: 10px;
+	}
+
+}
